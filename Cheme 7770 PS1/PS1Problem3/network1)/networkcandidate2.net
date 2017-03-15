@@ -1,0 +1,4 @@
+//network candidate 2
+gene_1 activate gene_2
+gene_2 activate gene_3
+gene_1 inhibit gene_3
